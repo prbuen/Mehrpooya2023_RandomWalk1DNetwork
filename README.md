@@ -1,0 +1,1 @@
+# Mehrpooya2023_RandomWalk1DNetwork
